@@ -1,0 +1,202 @@
+body
+    {
+        background-size: 100%;
+        background: url('Images/_\ photo\ NOIR\ BL.png') ;
+        color: #ffffff;
+    }
+.navbar
+    {
+        background: #4d5961;
+        
+    }
+.nav
+    {
+        position: absolute;
+        right: 155px;
+        color: #fff;
+    }
+a
+    {
+        color: #ffffff;
+        font-size: 10px;
+    }
+.activ
+    {
+        border: 1px solid #4bcaff;
+
+    }
+.navbar-brand
+    {
+        position: absolute;
+        left: 140px;
+        color: #fff;
+        top: -5px;
+    }
+.EE
+    {
+        color: #4bcaff;
+    }
+.TT
+    {
+       
+       left: 500px;
+       top: 250px; 
+    }
+.T0
+    {
+        position: absolute;
+        top: 100px;
+        left: 560px;
+    }
+.T1
+    {
+        position: absolute;
+        left: 530px;
+        top: 150px;
+    }
+.T2
+    {
+        position: absolute;
+        left: 485px;
+        top: 185px;
+    }
+span
+    {
+        background:#4a555d ;
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+.container-fluid
+    {
+        background: #4bcaff;
+        margin-top: 250px;
+        background-size: 100%;
+    }
+.Icones
+    {
+        margin-left: 130px;
+        margin-top: 40px;
+        margin-bottom: 260px;
+        width: 85%;
+        
+    }
+.Titre1
+    {
+        margin-top: 30px;
+        margin-left: 145px;
+        opacity: 70%;
+    }
+.TEXT1
+    {
+        font-size: 12px;
+    }
+.containerForm
+    {
+        background-image: url('Images/BGFORME.png');
+        margin-top: 50px;
+        background-size: 100%;
+        height: 520px;
+        
+    }
+.container
+    {
+        width: 1385PX;
+        margin-top: -55px;
+        margin-left: -20px;
+    }
+.input-group
+    {
+        margin-left: 12%;
+        margin-top: 35px;
+        width: 350px;
+        
+        
+    }
+.form-control
+    {
+        background-color: #6c777d;
+        
+    }   
+.Tarea
+    {
+        background-color: #6c777d;
+        width: 750px;
+        border: 1px solid #ffffff;
+    }
+.Titre2
+    {
+        position: absolute;
+        margin-top: 25px;
+        margin-left: 160px;
+        opacity: 70%;
+    }
+button
+    {
+        margin-left: 165px;
+        border-radius: 0px;
+        width: 155px;
+        height: 30px;
+        font-size: 12px;
+        padding-bottom: 30px;
+    }
+.TEXT3
+    {
+        position: absolute;
+        margin-left: 600px;
+        margin-top: -355px;
+        font-size: 12px;
+    }
+.FOOTER
+    {
+        background-color:#353f47 ;
+        background-size: 50px;
+        height: 80px;
+        
+    }
+.Tfoot1
+    {
+        color: gray;
+        padding-right: 40px;
+        margin-left: 50px;
+        opacity: 75px;
+    }
+.Tfoot2
+    {
+        color: gray;
+        padding-right: 40px;
+        opacity: 75px;
+    }
+.Tfoot3
+    {
+        color: gray;
+        padding-right: 40px;
+        opacity: 75px;
+    }
+.Tfoot4
+    {
+        color: gray;
+        padding-right: 40px;
+        opacity: 75px;
+    }
+.TEXTFOOT
+    {
+        display: flex;
+        
+        margin-left: 125px;
+        margin-top: 25px;
+        
+    }
+.F2
+ {
+     color: gray;
+     margin-left: 1155px;
+     margin-top: -25px;
+ }  
+ .copy
+    {
+        width: 15px;
+        margin-top: -60px;
+        margin-left: 1188px;
+    }
+ 
+        
